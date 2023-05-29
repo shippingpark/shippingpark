@@ -1,6 +1,6 @@
 ### 💫 I'm Hyeun, ready to start 
-* 🦎 **Galapagos** (Side Project) : 파충류 커뮤니티 앱 (23.04.20~)
-* 🍷 **Winey** (Side Project) : 와인 추천 앱 (23.04.10~)
+* 🦎 **Galapagos** (Side Project) : 파충류 커뮤니티 앱 (23.04.30~)
+* 🍷 **Winey** (Side Project) : 와인 추천 앱 (23.04.20~)
 * 👩‍💻 **CMC 12th** iOS Developer with Hana Team (22.12.25~23.03.25)
   * Info : 팀 내 유일한 iOS 개발자 / 첫 협업
   * App Store : FieldMate
