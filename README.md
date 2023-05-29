@@ -1,4 +1,4 @@
-### 💫 I'm Hyeun, an iOS developer ready to begin.
+### 💫 I'm Hyeun, ready to start as an iOS developer.
 
 <!--
 **shippingpark/shippingpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
