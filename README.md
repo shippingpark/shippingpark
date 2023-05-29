@@ -5,7 +5,7 @@
   * Info : 팀 내 유일한 iOS 개발자 / 첫 협업
   * App Store : FieldMate
   * Award : 🥉
-* ⛳️ **Allen's Hackathon** (22.10. ~22.10.)
+* ⛳️ **Allen's Hackathon** (22.10.05 ~22.10.12)
 
 * ❤️‍🔥 **Allen's Swift School** (22.07.25~22.09.25)
 
