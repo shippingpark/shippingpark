@@ -6,7 +6,7 @@
   * Award : 🥉
 * ⛳️ **Allen's Hackathon** : 1인 해커톤 (22.10.05 ~22.10.12)
 
-* ❤️‍🔥 **Allen's Swift School** : Swift 문법 스쿨 (22.07.25~22.09.25)
+* ❤️‍🔥 **Allen's Swift School** : Swift 문법 스쿨 12기 (22.07.25~22.09.25)
 
 
 * 🏕️ **Rising Camp 6th** : iOS 수료 (22.05.11~22.07.13)
