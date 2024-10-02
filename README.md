@@ -3,7 +3,6 @@
 * 🤖 [**GuestBlock**](https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A46-App-Clips) (SwiftUI / AppClips) : 직관적인 방명록 앱 (24.06.17~24.06.20)
 * ⚾️ [**승리지쿄**](https://github.com/DeveloperAcademy-POSTECH/2024-MC2-A11-YANOLJA) (SwiftUI) : 직관 기록 및 승률 앱 (24.05.20~🏃‍♀️‍➡️)
 * 🍷 [**Winey**](https://github.com/AdultOfNineteen/WINEY-iOS) (SwiftUI / TCA) : 와인 추천 앱 (23.04.30~🏃‍♀️‍➡️)
-* 🦎 [**Galapagos**](https://github.com/BusyModernPeople/Galapagos-iOS) (UIKit / Clean) : 파충류 커뮤니티 앱 (23.04.20~23.09.30)
 * 👩‍💻 **CMC 12th** iOS Developer with Hana Team (22.12.25~23.03.25)
   * AppStore : 현장 엔지니어를 위한 업무 관리 앱 FieldMate
 * ⛳️ **Allen's Hackathon** : 1인 해커톤 (22.10.05 ~22.10.12)
