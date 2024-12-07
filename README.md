@@ -1,5 +1,5 @@
 ### 💫 I'm Hyeun, ready to start 
-* 🐦 [**소비짹**](https://github.com/DeveloperAcademy-POSTECH/2024-MacC-A10-Akdong-Cookiez) (UIKit/SwiftUI) : 해외여행 시 지출판단 앱 (24.11.12-24.12.04)
+* 🐦 [**소비짹**](https://github.com/DeveloperAcademy-POSTECH/2024-MacC-A10-Akdong-Cookiez) (UIKit / SwiftUI) : 해외여행 시 지출판단 앱 (24.11.12-24.12.04)
 * ⚾️ [**승리지쿄**](https://github.com/DeveloperAcademy-POSTECH/2024-MC2-A11-YANOLJA) (SwiftUI) : 직관 기록 및 승률 앱 (24.05.20~🏃‍♀️‍➡️)
 * 🍷 [**Winey**](https://github.com/AdultOfNineteen/WINEY-iOS) (SwiftUI / TCA) : 와인 추천 앱 (23.04.30~🏃‍♀️‍➡️)
   
