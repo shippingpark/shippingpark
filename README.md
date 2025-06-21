@@ -1,7 +1,5 @@
 
-[![Swift](https://img.shields.io/badge/Swift-orange)](https://swift.org)
-
-[![UIKit](https://img.shields.io/badge/UIKit-blue)](https://developer.apple.com/documentation/uikit) [![SwiftUI](https://img.shields.io/badge/SwiftUI-blue)](https://developer.apple.com/documentation/swiftui) [![Combine](https://img.shields.io/badge/Combine-blue)](https://developer.apple.com/documentation/combine) [![AVFoundation](https://img.shields.io/badge/AVFoundation-blue)](https://developer.apple.com/av-foundation)
+[![Swift](https://img.shields.io/badge/Swift-orange)](https://swift.org) [![UIKit](https://img.shields.io/badge/UIKit-blue)](https://developer.apple.com/documentation/uikit) [![SwiftUI](https://img.shields.io/badge/SwiftUI-blue)](https://developer.apple.com/documentation/swiftui) [![Combine](https://img.shields.io/badge/Combine-blue)](https://developer.apple.com/documentation/combine) [![AVFoundation](https://img.shields.io/badge/AVFoundation-blue)](https://developer.apple.com/av-foundation)
 
 [![HTTP](https://img.shields.io/badge/HTTP-URLSession-lightgrey)](https://developer.apple.com/documentation/foundation/urlsession)
  [![MQTT](https://img.shields.io/badge/MQTT-CocoaMQTT-lightgrey)](https://github.com/emqx/CocoaMQTT) [![Socket](https://img.shields.io/badge/Socket-CocoaAsyncSocket-lightgrey)](https://github.com/robbiehanson/CocoaAsyncSocket)
